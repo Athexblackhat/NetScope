@@ -164,7 +164,8 @@ chmod +x *
 ### 3. Run NetScope
 
 ```bash
-sudo python3 NetScope.py
+./install.sh
+bash install.sh
 ```
 
 On Windows:
